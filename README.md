@@ -26,28 +26,12 @@ cd react-counter-app
 npm install
 npm startThis will run the app on http://localhost:3000.
 
-📸 Demo
+## 📸 Demo
 
-Replace with your actual screenshot or GIF if you have one.
+![App Screenshot](./react-counter-app.png)
+
+
+
 
 📄 License
 This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-### 3. Save the File
-
----
-
-### 4. Push the Updated README to GitHub
-
-In your terminal:
-
-```bash
-git add README.md
-git commit -m "Update README with project info"
-git push
