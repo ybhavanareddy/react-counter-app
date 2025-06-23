@@ -25,7 +25,11 @@ git clone https://github.com/ybhavanareddy/react-counter-app.git
 cd react-counter-app
 npm install
 npm startThis will run the app on http://localhost:3000.
+
 ```
+
+## 🔗 Live URL
+react-counter-a5pyxt0on-bhavana-yathams-projects.vercel.app
 
 ## 📸 Demo
 
@@ -35,4 +39,5 @@ npm startThis will run the app on http://localhost:3000.
 
 
 📄 License
+
 This project is licensed under the MIT License.
