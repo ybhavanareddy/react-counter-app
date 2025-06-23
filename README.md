@@ -29,8 +29,7 @@ npm startThis will run the app on http://localhost:3000.
 ```
 
 ## 🔗 Live URL
-react-counter-a5pyxt0on-bhavana-yathams-projects.vercel.app
-
+https://react-counter-app-peach.vercel.app/
 ## 📸 Demo
 
 ![App Screenshot](./react-counter-app.png)
