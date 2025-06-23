@@ -25,6 +25,7 @@ git clone https://github.com/ybhavanareddy/react-counter-app.git
 cd react-counter-app
 npm install
 npm startThis will run the app on http://localhost:3000.
+```
 
 ## 📸 Demo
 
